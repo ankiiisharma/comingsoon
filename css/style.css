@@ -830,6 +830,10 @@ footer {
     font-size: 2.1rem;
   }
 
+  .profile-card{
+    width: 300px;
+    height: 200px;
+  }
   
 }
 
@@ -855,7 +859,7 @@ footer {
 
   .profile-card{
     width: 300px;
-    height: 140px;
+    height: 200px;
   }
 }
 
@@ -869,4 +873,15 @@ footer {
       width: 10px;
   }
 
+  .profile-card{
+    width: 300px;
+    height: 200px;
+  }
+}
+
+@media (max-width:375px){
+  .profile-card{
+    width: 300px;
+    height: 140px;
+  }
 }
