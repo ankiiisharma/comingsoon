@@ -532,29 +532,26 @@ nav a {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 1rem;
-  color: ;
+  color: cyan;
 }
-
-footer {
+.footer
+{
   display: flex;
   justify-content: center;
   align-items: flex-end;
   padding-top: 3.2rem;
   padding-bottom: 1.2rem;
 }
-
 .source-code {
   display: flex;
   margin-left: 4.8rem;
   align-items: flex-end;
   text-decoration: none;
 }
-
 .source-code img {
   width: 1.4rem;
   margin-right: 0.5rem;
 }
-
 /* reusable classes */
 
 .small-icon {
