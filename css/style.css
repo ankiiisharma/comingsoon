@@ -652,6 +652,7 @@ nav a {
 }
 
 
+
 /* media-queries */
 
 @media (max-width: 1400px) {
@@ -770,6 +771,7 @@ nav a {
     padding:0 4rem;
   }
 
+
   
 }
 
@@ -829,6 +831,7 @@ nav a {
   }
   
 }
+
 
 @media (max-width: 530px) {
   html {
